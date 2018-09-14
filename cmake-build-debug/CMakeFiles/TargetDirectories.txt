@@ -1,0 +1,3 @@
+/Users/gerardobecerril/CLionProjects/Geometry101/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/gerardobecerril/CLionProjects/Geometry101/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/gerardobecerril/CLionProjects/Geometry101/cmake-build-debug/CMakeFiles/Geometry101.dir
